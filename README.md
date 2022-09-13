@@ -25,16 +25,7 @@
 5.	Запускаем проект при помощи Live Server.
 
 
-
-## Тестирование бизнес-логики приложения: 
-   npm test
-
-
-## Функциональное тестирование с использованием Cypress:
-npm run cypress
-
-
-## Перейти в проект: [GitHubPages](https://339598u5uut.github.io/REACT/)
+## Перейти в проект: [GitHubPages]( https://339598u5uut.github.io/Course-3D/)
 
 
 ***  
